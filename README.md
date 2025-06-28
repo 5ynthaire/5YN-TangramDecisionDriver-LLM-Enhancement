@@ -46,11 +46,6 @@ Fork this repo on GitHub, make changes, and submit a pull request. See [X](https
 
 This prompt is released under the [Creative Commons Attribution 4.0 International](LICENSE) (CC BY 4.0).
 
-
-Attribution:  
-Creator: 5ynthaire  
-Repository: https://github.com/5ynthaire/5YN-TangramDecisionDriver-LLM-Enhancement
-
 ## Glossary
 
 - **AI Synergy Threshold**: The point where human-AI collaboration transcends skill limits, unlocking novel solutions.  
