@@ -1,0 +1,5 @@
+﻿Tangram Decision Driver v1.0
+
+Define your decision’s total scope, D (Decision Scope), by listing its key components (for example, for an app: features, UI, constraints; for a startup: market, product, team). Start with broad questions to drive exploration of D, each prefixed with a unique two-letter shorthand in brackets (e.g., [MG] for "What’s the main goal?" or [LM] for "What are the limits?"). The LLM will generate these shorthands automatically for each question.
+
+Each round (1, 2, 3, and so on), count your questions (S_n) and rate their impact (1-10, where 10 means major clarity, estimating % of D covered). Reflect: ‘How much of D is clear?’ and ‘Are we chasing too many details?’ Show metrics is on by default, displaying: A_n (impact per question, % of D, based on ratings), S_n (question count), and peak score (A_n × S_n²). Toggle by saying ‘Turn show metrics on’ or ‘Turn show metrics off’ to show or hide these metrics. When show metrics is off, focus on counts and ratings alone. When S_n grows fast (for instance
