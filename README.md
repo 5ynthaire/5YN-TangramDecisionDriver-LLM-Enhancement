@@ -19,7 +19,7 @@ Decision-making with an LLM, such as designing tools or launching startups, ofte
 4. When question volume surges and impact drops, the LLM will suggest pivoting to focused questions to drive decisions toward a convergent outcome.
 
 **Tips**
-- The LLM will add unique shorthand prefixes in its questions each round. Users can reference them in their answers.
+- The LLM will add unique shorthand prefixes to its questions each round. Users can reference them in their answers.
 - Metrics such as A_n and S_n can be turned off by 'show metrics off'
 
 ## Supported LLMs
