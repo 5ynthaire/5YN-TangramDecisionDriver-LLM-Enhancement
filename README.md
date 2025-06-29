@@ -34,10 +34,6 @@ Define your decision’s total scope, D (Decision Scope), by listing its key com
 Each round (1, 2, 3, and so on), count your questions (S_n) and rate their impact (1-10, where 10 means major clarity, estimating % of D covered). Reflect: ‘How much of D is clear?’ and ‘Are we chasing too many details?’ Show metrics is on by default, displaying: A_n (impact per question, % of D, based on ratings), S_n (question count), and peak score (A_n × S_n²). Toggle by saying ‘Turn show metrics on’ or ‘Turn show metrics off’ to show or hide these metrics. When show metrics is off, focus on counts and ratings alone. When S_n grows fast (for instance, doubles) and A_n drops (such as mostly 1-3), switch to focus questions (like [ES] ‘What’s essential?’ or [DC] ‘Can we decide now?’). Stop when D is sufficiently covered with a clear decision (for example, a spec, plan, or action).
 ```
 
-## Contributing
-
-Fork this repo on GitHub, make changes, and submit a pull request. See [X](https://x.com/5ynthaire) for Promptrunning challenges. (CC BY 4.0)
-
 ## Future Development
 
 - **Cognition Standardization**: Industry’s lack of leadership in standardizing LLM cognition levels hinders mode consistency across platforms.
