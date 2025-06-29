@@ -13,7 +13,14 @@ Decision-making with an LLM, such as designing tools or launching startups, ofte
 
 ## Usage
 
-Copy the prompt text below and paste it into a compatible LLM interface (e.g., Grok 3, ChatGPT). Collaborate with the LLM by defining your decision’s scope (e.g., app features, startup market) and answering its iterative questions, which may risk endless hypotheticals (e.g., “What’s the goal?” leading to “What if it fails in space?”). Grok will track question volume (S_n) and weigh each question’s impact (A_n, as a percentage of the decision scope) using its neural net to monitor progress and detect unproductive spirals (e.g., many low-impact questions). When question volume surges (e.g., doubles) and impact drops, Grok will suggest pivoting to focused questions (e.g., “What’s essential?”) to drive decisions like tool specs or plans. Optionally use shorthand prefixes (e.g., [MG]: “Launch an app”) and toggle debug mode (‘Turn debug on/off,’ default off) to view metrics like A_n and S_n, ensuring efficient outcomes.
+1. Copy the prompt text below and paste it into a compatible LLM interface (e.g., Grok 3, ChatGPT).
+2. Collaborate with the LLM by defining your decision’s scope (e.g., app features, startup market) and answering its iterative questions.
+3. The Decision Scope (D) will fill up as decisions are made. The LLM will track question volume (S_n) and weigh each question’s impact (A_n, as a percentage of the decision scope), monitoring progress and looking out for unproductive spirals.
+4. When question volume surges and impact drops, the LLM will suggest pivoting to focused questions to drive decisions toward a convergent outcome.
+
+**Tips**
+- The LLM will add unique shorthand prefixes in its questions each round. Users can reference them in their answers.
+- Metrics such as A_n and S_n can be turned off by 'show metrics off'
 
 ## Supported LLMs
 
