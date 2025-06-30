@@ -2,7 +2,7 @@
 
 ## Overview
 
-Decision-making with an LLM, such as designing tools or launching startups, often stalls when answers spawn endless hypotheticals, delaying actionable outcomes. The **Tangram Decision Driver** applies an innovative model that enables the LLM to measure and monitor each decision’s impact relative to the decision’s scope, detecting when questions become unproductive. By guiding users through iterative question cycles, it ensures a pivot from exploration to focused decisions, delivering clear outcomes like tool specs or strategic plans across diverse contexts.
+Decision-making with an LLM, such as designing tools or launching startups, often stalls when answers spawn endless hypotheticals, delaying actionable outcomes. The **Tangram Decision Driver** applies an innovative [model](https://github.com/5ynthaire/5YN-TangramDecisionMakingModel-Idea) that enables the LLM to measure and monitor each decision’s impact relative to the decision’s scope, detecting when questions become unproductive. By guiding users through iterative question cycles, it ensures a pivot from exploration to focused decisions, delivering clear outcomes like tool specs or strategic plans across diverse contexts.
 
 ## About
 
@@ -51,6 +51,6 @@ This prompt is released under the [Creative Commons Attribution 4.0 Internationa
 
 ## Glossary
 
-- **AI Synergy Threshold**: The point where human-AI collaboration transcends skill limits, unlocking novel solutions.  
+- **Tangram Decision Making Model**: The framework this prompt is based on, which imagines decision-making as assembling pre-cut pieces of varying sizes to fill an irregular decision space, allowing heuristic quantification of decision metrics. See [Tangram Decision Making Model](https://github.com/5ynthaire/5YN-TangramDecisionMakingModel-Idea)
 - **Prompt Architecting**: Designing complex, adaptive prompt systems. This prompt meets the criteria for [Prompt Architecting](https://github.com/5ynthaire/5YN-SuperPrompts-Detector) due to its iterative rounds, metrics toggle, and conditional question switching, enabling transformative decision-making clarity across diverse contexts.
-- **Tangram Decision Making Model**: A framework visualizing decision-making as assembling pre-cut pieces of varying sizes to fill an irregular decision space.
+- **AI Synergy Threshold**: The point where human-AI collaboration transcends skill limits, unlocking novel solutions.  
